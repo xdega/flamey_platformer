@@ -1,0 +1,14 @@
+name: flamey_platformer
+description: A simple platformer game made with Flame.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.0.5
+  flutter: ^3.13.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.9.1
+  flutter_lints: ^2.0.3
